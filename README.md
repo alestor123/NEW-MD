@@ -2,7 +2,7 @@
 
 2. 🗣 Commented on [#8871](https://github.com//nodejs/node/issues/8871) in [nodejs/node](https://github.com//nodejs/node)
 
-3. 🗣 Commented on [#3768](https://github.com//reduxjs/redux/issues/3768) in [reduxjs/redux](https://github.com//reduxjs/redux)
+3. undefined
 4. undefined
 5. undefined
 
