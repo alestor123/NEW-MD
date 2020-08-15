@@ -1,48 +1,48 @@
-<p align="left"> <img src=https://komarev.com/ghpvc/?username=alestor123 alt=alestor123/> </p>
-
-[![Website](https://img.shields.io/website?label=alestor123.github.io&style=for-the-badge&url=https%3A%2F%2Falestor123.github.io)](https://alestor123.github.io)
-
-<p align="center">
-    <img src="https://raw.githubusercontent.com/alestor123/alestor123/master/assets/icon.svg">
-</p>
-
-<h1 align="center"> Hi there, I'm Alestor </h1>
-
-<h2 align="center"> A Normal Mortal Web Developer With Immortal Dreams</h2>
-
-### I'm a Student Developer and an Enthusiast In Coding 
-- I'm a Self Taught Developer Who Is Passionate About His Work
-- I’m looking to collaborate with other Developers
-- Goals: Contribute more to Open Source projects
-- Having Fun In :  Coding , Electronics  , Badminton
-
-### Connect with me:
-
-
-### 📕 Latest Blog Posts
-<!-- BLOG-POST-LIST:START -->
-- [Deploy Mern Stack On Heroku](https://dev.to/alestor123/deploy-mern-stack-on-heroku-4hjg)
-- [How To Create A Github Profile As A Developer ](https://dev.to/alestor123/how-to-create-a-github-profile-as-a-developer-33j1)
-- [Console Log Every Where](https://dev.to/alestor123/console-log-every-where-35hc)
-- [Should You Learn Bootstrap In 2020](https://dev.to/alestor123/should-you-learn-bootstrap-in-2020-14ln)
-- [Hi therer](https://dev.to/alestor123/hi-therer-5b2b)
-<!-- BLOG-POST-LIST:END -->
-
-
-[<img align="left" alt="alestor123 | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />]
-
-# Spend Time On
-
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
-
-
-<details>
-  <summary>:zap: Recent Github Activity</summary>
-  <!--START_SECTION:activity-->
 1. 💪 Opened PR [#883](https://github.com//fireship-io/git-sticker/pull/883) in [fireship-io/git-sticker](https://github.com//fireship-io/git-sticker)
+
 2. 🗣 Commented on [#8871](https://github.com//nodejs/node/issues/8871) in [nodejs/node](https://github.com//nodejs/node)
+
 3. 🗣 Commented on [#3768](https://github.com//reduxjs/redux/issues/3768) in [reduxjs/redux](https://github.com//reduxjs/redux)
+4. undefined
+5. undefined
+
+6. undefined
+
+7. undefined
+
+8. undefined
+9. undefined
+10. undefined
+11. undefined
+12. undefined
+
+13. undefined
+
+
+14. undefined
+15. undefined
+16. undefined
+17. undefined
+18. undefined
+19. undefined
+20. undefined
+21. undefined
+
+
+22. undefined
+
+23. undefined
+
+24. undefined
+25. undefined
+
+
+26. undefined
+27. undefined
+28. undefined
+29. undefined
+30. undefined
+31. undefined
 <!--END_SECTION:activity-->
 
 ### My Stats:
