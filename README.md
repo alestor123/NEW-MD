@@ -33,6 +33,10 @@
 
 📊 **This week I spent my time on**
 <!--START_SECTION:activity-->
+1. 💪 Opened PR [#883](https://github.com//fireship-io/git-sticker/pull/883) in [fireship-io/git-sticker](https://github.com//fireship-io/git-sticker)
+2. 🗣 Commented on [#8871](https://github.com//nodejs/node/issues/8871) in [nodejs/node](https://github.com//nodejs/node)
+3. 🗣 Commented on [#3768](https://github.com//reduxjs/redux/issues/3768) in [reduxjs/redux](https://github.com//reduxjs/redux)
+<!--END_SECTION:activity-->
 
 ### My Stats:
 <img align="left" alt="alestor123's Github Stats" src="https://github-readme-stats.vercel.app/api?username=alestor123&show_icons=true&theme=dark" />
