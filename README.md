@@ -40,5 +40,8 @@
 3. 🗣 Commented on [#3768](https://github.com//reduxjs/redux/issues/3768) in [reduxjs/redux](https://github.com//reduxjs/redux)
 <!--END_SECTION:activity-->
 
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
 ### My Stats:
 <img align="left" alt="alestor123's Github Stats" src="https://github-readme-stats.vercel.app/api?username=alestor123&show_icons=true&theme=dark" />
