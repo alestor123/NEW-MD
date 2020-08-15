@@ -32,10 +32,7 @@
 [<img align="left" alt="alestor123 | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />]
 
 📊 **This week I spent my time on**
-
-<!--START_SECTION:waka-->
-
-<!--END_SECTION:waka-->
+<!--START_SECTION:activity-->
 
 ### My Stats:
 <img align="left" alt="alestor123's Github Stats" src="https://github-readme-stats.vercel.app/api?username=alestor123&show_icons=true&theme=dark" />
