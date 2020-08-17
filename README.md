@@ -43,7 +43,6 @@
 29. undefined
 30. undefined
 31. undefined
-<!--END_SECTION:activity-->
 
 ### My Stats:
 <img align="left" alt="alestor123's Github Stats" src="https://github-readme-stats.vercel.app/api?username=alestor123&show_icons=true&theme=dark" />
